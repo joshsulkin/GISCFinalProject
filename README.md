@@ -10,6 +10,10 @@ In 1931, Roger Peyrefitte, age 24, was hired by the Ministry of Foreign Affairs 
 
 Peyrefitte's early diplomatic and literary journeys—until he was fired in 1945—are the subject of the digitized map below. Hover the mouse over a red point to find the city and order number within the larger context of his travels. Click on a red point to open a pop-up with brief descriptions of what he did in a particular location. For a visually accessible version of the pop-ups, scroll just past the map to read about his travels chronologically.
 
+# The Digitized Diplomat
+
+<img width="666" alt="Screenshot 2023-05-17 at 3 02 19 PM" src="https://github.com/joshsulkin/GISCFinalProject/assets/104933711/e4eb9e7f-4bae-436f-9eb4-5a12f577a59b">
+
 # Accessible Viewing of Pop-Up Descriptions
 
 To view the descriptions of the pop-ups in a visually accessible format and in chronological order, please see below.
